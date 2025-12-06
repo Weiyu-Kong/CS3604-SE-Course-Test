@@ -5,18 +5,10 @@
   "actions": [
     {
       "action": "点击“商务旅行服务”，然后从下拉菜单中点击“餐饮及特色产品”",
-      "expectedResult": "出现按日期、车次、乘车站和到达站搜索的框"
+      "expectedResult": "出现一个包含日期、列车车次、出发站和到达站输入框的搜索表单"
     },
     {
-      "action": "点击日期选择器",
-      "expectedResult": "出现日期选择器"
-    },
-    {
-      "action": "选择第14天",
-      "expectedResult": ""
-    },
-    {
-      "action": "输入列车车次 G101",
+      "action": "在车次框中输入G101",
       "expectedResult": ""
     },
     {
