@@ -36,12 +36,12 @@
       "expectedResult": ""
     },
     {
-      "action": "收件人输入User",
+      "action": "手机号输入15512341234",
       "expectedResult": ""
     },
     {
       "action": "点击“保存”",
-      "expectedResult": "在手机号码输入框右侧显示“请输入收件人的手机号码”"
+      "expectedResult": "提示“请输入收件人的姓名！”"
     }
   ],
   "createdAt": "2025-12-05T00:00:00.000Z",

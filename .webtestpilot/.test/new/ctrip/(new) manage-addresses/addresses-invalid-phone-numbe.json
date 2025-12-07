@@ -36,8 +36,8 @@
       "expectedResult": ""
     },
     {
-      "action": "不填写手机号码，点击“保存”",
-      "expectedResult": "在手机号码输入框右侧显示“请输入正确的手机号码”"
+      "action": "手机号码输入“155”",
+      "expectedResult": "提示“请输入正确的手机号码”"
     }
   ],
   "createdAt": "2025-12-05T00:00:00.000Z",
