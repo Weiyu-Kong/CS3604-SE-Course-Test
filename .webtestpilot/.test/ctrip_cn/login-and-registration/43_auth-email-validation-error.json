@@ -1,0 +1,29 @@
+{
+  "id": "test_misweq5j_0.dy3633nvqra",
+  "name": "邮箱验证错误（登录）",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“登录”",
+      "expectedResult": "跳转至登录界面"
+    },
+    {
+      "action": "选择“账号密码登录”",
+      "expectedResult": ""
+    },
+    {
+      "action": "账号输入框输入无效邮箱“not-an-email”",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入任意密码",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“登录”",
+      "expectedResult": "显示邮箱格式不正确的校验错误"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

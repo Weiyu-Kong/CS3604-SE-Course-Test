@@ -1,0 +1,29 @@
+{
+  "id": "test_miswekyp_0.yjdhzdruhqq",
+  "name": "查询上海出发的车票",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在首页“车票”查询模块选择单程",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入出发地上海",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入到达地南京",
+      "expectedResult": ""
+    },
+    {
+      "action": "选择出发日期2025-12-15",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”",
+      "expectedResult": "显示上海出发的车次列表（如G7002等）"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

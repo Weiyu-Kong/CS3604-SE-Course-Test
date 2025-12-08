@@ -1,0 +1,45 @@
+{
+  "id": "test_miswekxj_0.xq06llrm8z",
+  "name": "注册",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "“用户名”输入框输入new user",
+      "expectedResult": ""
+    },
+    {
+      "action": "“登录密码”输入框输入mypassword",
+      "expectedResult": ""
+    },
+    {
+      "action": "“确认登录密码”输入框输入mypassword",
+      "expectedResult": ""
+    },
+    {
+      "action": "“姓名”输入框输入New User",
+      "expectedResult": ""
+    },
+    {
+      "action": "“证件号”输入框输入100111222233334443",
+      "expectedResult": ""
+    },
+    {
+      "action": "“手机号”输入框输入13812341234",
+      "expectedResult": ""
+    },
+    {
+      "action": "勾选“我已阅读并同意遵守隐私条款”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“下一步”",
+      "expectedResult": "提示用户注册成功，跳转至首页"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

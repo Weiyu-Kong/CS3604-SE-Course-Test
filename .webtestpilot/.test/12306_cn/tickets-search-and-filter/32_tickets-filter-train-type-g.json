@@ -1,0 +1,21 @@
+{
+  "id": "test_miswekyc_0.mmlaf4e7dvk",
+  "name": "筛选车次类型 G",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在车次列表页，展开“车次类型”筛选",
+      "expectedResult": ""
+    },
+    {
+      "action": "仅勾选G-高铁",
+      "expectedResult": ""
+    },
+    {
+      "action": "观察列表刷新",
+      "expectedResult": "仅显示G开头的高铁车次"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

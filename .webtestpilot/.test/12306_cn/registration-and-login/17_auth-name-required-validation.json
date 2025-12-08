@@ -1,0 +1,29 @@
+{
+  "id": "test_miswekxf_0.19d65njw1vy",
+  "name": "姓名必填校验（注册）",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "依次填写用户名、密码、确认密码、证件号、手机号",
+      "expectedResult": ""
+    },
+    {
+      "action": "“姓名”输入框留空",
+      "expectedResult": ""
+    },
+    {
+      "action": "勾选“我已阅读并同意遵守隐私条款”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“下一步”",
+      "expectedResult": "显示姓名为必填的校验提示"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

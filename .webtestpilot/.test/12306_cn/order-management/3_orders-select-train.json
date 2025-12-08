@@ -1,0 +1,13 @@
+{
+  "id": "test_miswekx1_0.17jvy9j8qiv",
+  "name": "选择车次",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在车次列表页选择第一个车次，点击“预订”",
+      "expectedResult": "跳转到订单填写页，显示列车信息和乘客信息"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

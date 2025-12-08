@@ -1,0 +1,29 @@
+{
+  "id": "test_misweq6k_0.2dylslq9d7g",
+  "name": "防止重复添加旅客",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“尊贵的用户”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击常用信息-常用旅客信息",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“新增”按钮",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入已存在的旅客姓名和证件号码（如：李四，100111222233334445）",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“保存”",
+      "expectedResult": "提示旅客已存在，禁止重复添加"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

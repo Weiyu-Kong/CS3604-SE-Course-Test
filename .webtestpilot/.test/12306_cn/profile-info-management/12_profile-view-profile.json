@@ -1,0 +1,17 @@
+{
+  "id": "test_miswekxa_0.7hzz7arwhn7",
+  "name": "查看个人信息",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "登录后，首页顶部点击用户名进入“个人中心”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击“个人信息”-“查看个人信息”",
+      "expectedResult": "显示当前用户基本信息（用户名、姓名）和联系方式（手机号、邮箱）"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

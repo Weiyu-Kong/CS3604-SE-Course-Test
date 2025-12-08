@@ -1,0 +1,17 @@
+{
+  "id": "test_misweq5s_0.ha4wrm11hur",
+  "name": "注册页返回登录",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "点击“返回登录”",
+      "expectedResult": "跳转至登录界面"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "test_misweq5l_0.xpp4a1p8n9m",
+  "name": "退出登录",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "使用账号密码登录至首页，显示欢迎信息",
+      "expectedResult": "返回首页并已登录"
+    },
+    {
+      "action": "点击顶部导航“退出登录”",
+      "expectedResult": "返回首页；用户已退出；显示登录/注册按钮"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

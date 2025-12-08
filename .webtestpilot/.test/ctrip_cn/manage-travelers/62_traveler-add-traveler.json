@@ -1,0 +1,37 @@
+{
+  "id": "test_misweq6b_0.91alwd8l64g",
+  "name": "添加旅客",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“尊贵的用户”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击常用信息-常用旅客信息",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“新增”按钮",
+      "expectedResult": ""
+    },
+    {
+      "action": "“中文名”输入框输入“张三”",
+      "expectedResult": ""
+    },
+    {
+      "action": "“证件类型”下拉框选择身份证",
+      "expectedResult": ""
+    },
+    {
+      "action": "“证件号码”输入框输入100111222233334444",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“保存”",
+      "expectedResult": "提示添加成功，返回旅客管理界面，新增旅客“张三”"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

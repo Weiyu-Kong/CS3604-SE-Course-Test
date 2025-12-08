@@ -1,0 +1,21 @@
+{
+  "id": "test_miswekx2_0.xjks9frw87d",
+  "name": "提交订单",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在订单填写页乘客信息勾选乘客New User",
+      "expectedResult": ""
+    },
+    {
+      "action": "为该乘客选择席别二等座",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“提交订单”",
+      "expectedResult": "系统创建订单并跳转订单详情，状态为“待支付”"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

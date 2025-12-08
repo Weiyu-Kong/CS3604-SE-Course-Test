@@ -1,0 +1,25 @@
+{
+  "id": "test_miswekx8_0.frz66jf8ana",
+  "name": "修改个人信息（联系方式）",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "进入“个人中心”-“个人信息”-“查看个人信息”",
+      "expectedResult": ""
+    },
+    {
+      "action": "在“联系方式”模块点击“编辑”",
+      "expectedResult": "相关字段变为可输入状态"
+    },
+    {
+      "action": "在邮箱输入框输入newuser@example.com",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“保存”",
+      "expectedResult": "提示修改成功，页面显示更新后的邮箱信息"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "test_misweq63_0.kkj9xl1w7e9",
+  "name": "取消订单",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“尊贵的用户”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击“订单”",
+      "expectedResult": "显示“全部订单”列表"
+    },
+    {
+      "action": "找到状态为“待支付”的订单",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击订单上的“取消”按钮",
+      "expectedResult": "弹出确认提示"
+    },
+    {
+      "action": "点击“确认”",
+      "expectedResult": "订单状态更新为“已取消”"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

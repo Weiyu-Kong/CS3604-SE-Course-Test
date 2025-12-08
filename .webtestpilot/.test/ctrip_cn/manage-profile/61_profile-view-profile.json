@@ -1,0 +1,17 @@
+{
+  "id": "test_misweq6a_0.v7ktygcxsq",
+  "name": "查看个人信息",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“尊贵的用户”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击个人信息-我的信息",
+      "expectedResult": "展示用户个人信息页面，包括手机号、邮箱、姓名、昵称"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "test_misweq60_0.ssg4ynym97m",
+  "name": "用户名已存在",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "输入已注册的手机号（如：13812341234）",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“发送验证码”并完成验证",
+      "expectedResult": ""
+    },
+    {
+      "action": "勾选“同意《服务协议》和《隐私政策》”",
+      "expectedResult": ""
+    },
+    {
+      "action": "进入设置密码并点击“完成”",
+      "expectedResult": "提示账号已存在，留在注册流程"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "test_misweq6l_0.d9unvu6enco",
+  "name": "筛选航空公司 国航",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "确保处于首页机票查询页面",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入出发地“上海 (SHA)”",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入目的地“北京 (BJS)”",
+      "expectedResult": ""
+    },
+    {
+      "action": "选择出发日期“2025-12-16”",
+      "expectedResult": ""
+    },
+    {
+      "action": "在航班列表页，点击“航空公司”下拉列表",
+      "expectedResult": ""
+    },
+    {
+      "action": "选择“国航”",
+      "expectedResult": "显示国航的航班列表"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

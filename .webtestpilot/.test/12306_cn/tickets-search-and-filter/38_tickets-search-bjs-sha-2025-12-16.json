@@ -1,0 +1,29 @@
+{
+  "id": "test_miswekyl_0.wt3qxh66a8",
+  "name": "查询 2025-12-16 北京-上海 车票",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "确保已登录并处于首页“车票”查询模块（单程）",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入出发地北京",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入到达地上海",
+      "expectedResult": ""
+    },
+    {
+      "action": "选择出发日期2025-12-16",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”",
+      "expectedResult": "跳转至车次列表页，显示符合条件的车次"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

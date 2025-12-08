@@ -1,0 +1,25 @@
+{
+  "id": "test_misweky1_0.q3cc93q29ng",
+  "name": "条款勾选校验（注册）",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "填写所有必填信息（用户名、密码、确认密码、姓名、证件号、手机号）",
+      "expectedResult": ""
+    },
+    {
+      "action": "不勾选“我已阅读并同意遵守隐私条款”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“下一步”",
+      "expectedResult": "提示必须勾选隐私条款，无法继续"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

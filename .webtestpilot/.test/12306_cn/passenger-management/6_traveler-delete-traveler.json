@@ -1,0 +1,17 @@
+{
+  "id": "test_miswekx4_0.ztx35f76a6g",
+  "name": "删除乘车人",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在乘车人列表找到张三，点击其“删除”按钮",
+      "expectedResult": "弹出确认框"
+    },
+    {
+      "action": "在确认框点击“确认”",
+      "expectedResult": "该乘客从列表成功移除"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

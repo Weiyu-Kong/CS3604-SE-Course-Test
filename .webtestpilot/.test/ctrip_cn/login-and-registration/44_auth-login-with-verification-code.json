@@ -1,0 +1,33 @@
+{
+  "id": "test_misweq5k_0.e91hnknalz",
+  "name": "验证码登录",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“登录”",
+      "expectedResult": "跳转至登录界面"
+    },
+    {
+      "action": "点击“验证码登录”",
+      "expectedResult": ""
+    },
+    {
+      "action": "“国内手机号”输入框输入13812341234",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“发送验证码”",
+      "expectedResult": ""
+    },
+    {
+      "action": "“短信验证码”输入框输入正确的验证码",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“登录”",
+      "expectedResult": "提示登录成功，返回首页"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "test_miswekxi_0.th1dc6gjgu",
+  "name": "手机号验证错误（注册）",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": "跳转至注册界面"
+    },
+    {
+      "action": "填写用户名、密码、确认密码、姓名、证件号",
+      "expectedResult": ""
+    },
+    {
+      "action": "“手机号”输入框输入无效号码12345",
+      "expectedResult": ""
+    },
+    {
+      "action": "勾选“我已阅读并同意遵守隐私条款”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“下一步”",
+      "expectedResult": "显示手机号格式错误的校验提示"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

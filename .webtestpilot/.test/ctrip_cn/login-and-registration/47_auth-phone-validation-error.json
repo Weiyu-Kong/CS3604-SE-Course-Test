@@ -1,0 +1,25 @@
+{
+  "id": "test_misweq5p_0.yp3zp266sx",
+  "name": "手机号验证错误",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“登录”",
+      "expectedResult": "跳转至登录界面"
+    },
+    {
+      "action": "选择“验证码登录”",
+      "expectedResult": ""
+    },
+    {
+      "action": "“国内手机号”输入框输入无效手机号“12345”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“发送验证码”",
+      "expectedResult": "显示手机号格式错误的校验提示"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}
