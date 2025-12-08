@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekx0_0.eu37ajcgjm",
-  "name": "支付订单（模拟）",
+  "id": "2 - 支付订单（模拟）",
+  "name": "2 - 支付订单（模拟）",
   "url": "${12306_URL}",
   "actions": [
     {

@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq64_0.rntivtezno",
-  "name": "查看、支付订单",
+  "id": "55 - 查看、支付订单",
+  "name": "55 - 查看、支付订单",
   "url": "${CTRIP_URL}",
   "actions": [
     {

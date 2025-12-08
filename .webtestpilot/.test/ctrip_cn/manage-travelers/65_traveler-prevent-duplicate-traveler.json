@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq6k_0.2dylslq9d7g",
-  "name": "防止重复添加旅客",
+  "id": "65 - 防止重复添加旅客",
+  "name": "65 - 防止重复添加旅客",
   "url": "${CTRIP_URL}",
   "actions": [
     {

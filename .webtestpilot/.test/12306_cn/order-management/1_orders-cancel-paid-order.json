@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekwz_0.2n83avi324p",
-  "name": "取消已支付订单",
+  "id": "1 - 取消已支付订单",
+  "name": "1 - 取消已支付订单",
   "url": "${12306_URL}",
   "actions": [
     {

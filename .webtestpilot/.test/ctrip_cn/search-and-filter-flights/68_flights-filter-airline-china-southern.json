@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq6n_0.ey2bs299t6",
-  "name": "筛选航空公司 南方航空",
+  "id": "68 - 筛选航空公司 南方航空",
+  "name": "68 - 筛选航空公司 南方航空",
   "url": "${CTRIP_URL}",
   "actions": [
     {

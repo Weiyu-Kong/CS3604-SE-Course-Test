@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekyp_0.yjdhzdruhqq",
-  "name": "查询上海出发的车票",
+  "id": "41 - 查询上海出发的车票",
+  "name": "41 - 查询上海出发的车票",
   "url": "${12306_URL}",
   "actions": [
     {

@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq6a_0.v7ktygcxsq",
-  "name": "查看个人信息",
+  "id": "61 - 查看个人信息",
+  "name": "61 - 查看个人信息",
   "url": "${CTRIP_URL}",
   "actions": [
     {

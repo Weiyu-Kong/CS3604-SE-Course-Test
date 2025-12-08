@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq68_0.qc2gm8hfs98",
-  "name": "邮箱验证错误（个人信息）",
+  "id": "59 - 邮箱验证错误（个人信息）",
+  "name": "59 - 邮箱验证错误（个人信息）",
   "url": "${CTRIP_URL}",
   "actions": [
     {

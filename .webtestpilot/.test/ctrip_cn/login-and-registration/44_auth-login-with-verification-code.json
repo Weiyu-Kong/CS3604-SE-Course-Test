@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq5k_0.e91hnknalz",
-  "name": "验证码登录",
+  "id": "44 - 验证码登录",
+  "name": "44 - 验证码登录",
   "url": "${CTRIP_URL}",
   "actions": [
     {

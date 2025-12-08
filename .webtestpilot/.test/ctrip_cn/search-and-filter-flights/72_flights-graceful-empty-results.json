@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq7o_0.z0jk4oad7ho",
-  "name": "优雅处理空结果（航班）",
+  "id": "72 - 优雅处理空结果（航班）",
+  "name": "72 - 优雅处理空结果（航班）",
   "url": "${CTRIP_URL}",
   "actions": [
     {

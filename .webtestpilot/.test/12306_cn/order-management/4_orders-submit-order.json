@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekx2_0.xjks9frw87d",
-  "name": "提交订单",
+  "id": "4 - 提交订单",
+  "name": "4 - 提交订单",
   "url": "${12306_URL}",
   "actions": [
     {

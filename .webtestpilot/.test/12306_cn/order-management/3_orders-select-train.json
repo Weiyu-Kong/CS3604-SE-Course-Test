@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekx1_0.17jvy9j8qiv",
-  "name": "选择车次",
+  "id": "3 - 选择车次",
+  "name": "3 - 选择车次",
   "url": "${12306_URL}",
   "actions": [
     {

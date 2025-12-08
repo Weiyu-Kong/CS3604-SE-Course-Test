@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq67_0.yms01jy9otq",
-  "name": "修改个人信息（姓名）",
+  "id": "58 - 修改个人信息（姓名）",
+  "name": "58 - 修改个人信息（姓名）",
   "url": "${CTRIP_URL}",
   "actions": [
     {

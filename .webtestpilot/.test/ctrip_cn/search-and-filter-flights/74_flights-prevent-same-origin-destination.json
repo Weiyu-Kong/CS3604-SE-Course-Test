@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq7r_0.qva3fk8twxl",
-  "name": "防止出发和抵达同个地点",
+  "id": "74 - 防止出发和抵达同个地点",
+  "name": "74 - 防止出发和抵达同个地点",
   "url": "${CTRIP_URL}",
   "actions": [
     {

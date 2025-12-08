@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq65_0.p6xta0u7hw",
-  "name": "查看订单详情",
+  "id": "56 - 查看订单详情",
+  "name": "56 - 查看订单详情",
   "url": "${CTRIP_URL}",
   "actions": [
     {

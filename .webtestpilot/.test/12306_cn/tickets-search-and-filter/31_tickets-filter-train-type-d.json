@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekyb_0.iwrxd659xv",
-  "name": "筛选车次类型 D",
+  "id": "31 - 筛选车次类型 D",
+  "name": "31 - 筛选车次类型 D",
   "url": "${12306_URL}",
   "actions": [
     {

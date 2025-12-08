@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq75_0.11fz6lg7ug",
-  "name": "筛选舱位 商务舱",
+  "id": "70 - 筛选舱位 商务舱",
+  "name": "70 - 筛选舱位 商务舱",
   "url": "${CTRIP_URL}",
   "actions": [
     {

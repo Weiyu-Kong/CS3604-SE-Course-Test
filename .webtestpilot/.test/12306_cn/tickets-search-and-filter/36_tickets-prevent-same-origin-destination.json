@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekyh_0.j2dj9sqgcpe",
-  "name": "防止出发和抵达同个地点",
+  "id": "36 - 防止出发和抵达同个地点",
+  "name": "36 - 防止出发和抵达同个地点",
   "url": "${12306_URL}",
   "actions": [
     {

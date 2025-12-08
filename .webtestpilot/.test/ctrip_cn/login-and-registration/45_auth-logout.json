@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq5l_0.xpp4a1p8n9m",
-  "name": "退出登录",
+  "id": "45 - 退出登录",
+  "name": "45 - 退出登录",
   "url": "${CTRIP_URL}",
   "actions": [
     {

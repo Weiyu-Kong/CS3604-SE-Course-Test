@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq66_0.pb1iulfpatp",
-  "name": "修改个人信息（邮箱与昵称）",
+  "id": "57 - 修改个人信息（邮箱与昵称）",
+  "name": "57 - 修改个人信息（邮箱与昵称）",
   "url": "${CTRIP_URL}",
   "actions": [
     {

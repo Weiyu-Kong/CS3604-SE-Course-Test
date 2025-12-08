@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq6l_0.d9unvu6enco",
-  "name": "筛选航空公司 国航",
+  "id": "66 - 筛选航空公司 国航",
+  "name": "66 - 筛选航空公司 国航",
   "url": "${CTRIP_URL}",
   "actions": [
     {

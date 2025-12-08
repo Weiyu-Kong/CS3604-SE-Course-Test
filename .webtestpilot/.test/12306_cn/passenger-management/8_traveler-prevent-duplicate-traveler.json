@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekx6_0.ffym41yars",
-  "name": "防止重复添加乘车人",
+  "id": "8 - 防止重复添加乘车人",
+  "name": "8 - 防止重复添加乘车人",
   "url": "${12306_URL}",
   "actions": [
     {

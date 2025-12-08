@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekxa_0.7hzz7arwhn7",
-  "name": "查看个人信息",
+  "id": "12 - 查看个人信息",
+  "name": "12 - 查看个人信息",
   "url": "${12306_URL}",
   "actions": [
     {

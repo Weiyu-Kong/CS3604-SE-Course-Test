@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq62_0.0rn47jzbhfl",
-  "name": "订票",
+  "id": "53 - 订票",
+  "name": "53 - 订票",
   "url": "${CTRIP_URL}",
   "actions": [
     {

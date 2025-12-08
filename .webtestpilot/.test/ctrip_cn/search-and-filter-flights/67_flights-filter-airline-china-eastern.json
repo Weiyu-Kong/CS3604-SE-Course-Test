@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq6m_0.btrirthg3ga",
-  "name": "筛选航空公司 东方航空",
+  "id": "67 - 筛选航空公司 东方航空",
+  "name": "67 - 筛选航空公司 东方航空",
   "url": "${CTRIP_URL}",
   "actions": [
     {

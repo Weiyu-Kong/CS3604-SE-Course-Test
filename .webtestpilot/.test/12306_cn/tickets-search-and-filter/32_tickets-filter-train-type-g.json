@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekyc_0.mmlaf4e7dvk",
-  "name": "筛选车次类型 G",
+  "id": "32 - 筛选车次类型 G",
+  "name": "32 - 筛选车次类型 G",
   "url": "${12306_URL}",
   "actions": [
     {

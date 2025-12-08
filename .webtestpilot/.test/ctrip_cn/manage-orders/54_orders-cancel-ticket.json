@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq63_0.kkj9xl1w7e9",
-  "name": "取消订单",
+  "id": "54 - 取消订单",
+  "name": "54 - 取消订单",
   "url": "${CTRIP_URL}",
   "actions": [
     {

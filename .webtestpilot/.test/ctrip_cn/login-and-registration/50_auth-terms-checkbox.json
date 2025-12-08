@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq5y_0.56tosb7g0sn",
-  "name": "同意条款勾选校验",
+  "id": "50 - 同意条款勾选校验",
+  "name": "50 - 同意条款勾选校验",
   "url": "${CTRIP_URL}",
   "actions": [
     {

@@ -1,6 +1,6 @@
 {
-  "id": "test_misweq7m_0.7izdizq4qty",
-  "name": "筛选舱位 经济舱",
+  "id": "71 - 筛选舱位 经济舱",
+  "name": "71 - 筛选舱位 经济舱",
   "url": "${CTRIP_URL}",
   "actions": [
     {

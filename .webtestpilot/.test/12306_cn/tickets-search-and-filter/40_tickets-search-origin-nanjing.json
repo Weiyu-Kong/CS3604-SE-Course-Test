@@ -1,6 +1,6 @@
 {
-  "id": "test_miswekyn_0.36ackn9tnqj",
-  "name": "查询南京出发的车票",
+  "id": "40 - 查询南京出发的车票",
+  "name": "40 - 查询南京出发的车票",
   "url": "${12306_URL}",
   "actions": [
     {
