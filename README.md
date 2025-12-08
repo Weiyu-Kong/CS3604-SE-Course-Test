@@ -30,6 +30,9 @@ uv tool install ieee-gui
 
 # Check if it works (might have to restart shell)
 gui-test --help
+
+# If you have installed before, then upgrade
+uv tool upgrade ieee-gui
 ```
 
 ### Step 3: Start the browser (before running tests)
@@ -63,9 +66,6 @@ cp .env.example .env
 gui-test 1 --env production
 gui-test 2 --env production
 gui-test 3 --env production
-
-# Run a single test by name
-gui-test "58 - 修改个人信息（姓名）" --env production
 
 # Run a folder of tests (sequentially)
 gui-test /ctrip/manage-orders --env production
