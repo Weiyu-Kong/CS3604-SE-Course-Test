@@ -20,8 +20,12 @@
       "expectedResult": ""
     },
     {
+      "action": "点击“单程”单选框",
+      "expectedResult": ""
+    },
+    {
       "action": "点击“搜索”",
-      "expectedResult": "显示出发地为上海、目的地为南京、出发日期为2025-12-16的航班列表"
+      "expectedResult": "显示出发地为“上海”或“上海 (SHA)”、目的地为“南京”或“南京 (NKG)”、出发日期为2025-12-16的航班列表"
     }
   ],
   "createdAt": "2025-12-03T00:00:00.000Z",
