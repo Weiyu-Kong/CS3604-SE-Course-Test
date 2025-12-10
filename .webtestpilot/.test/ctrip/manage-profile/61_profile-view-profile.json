@@ -4,7 +4,7 @@
   "url": "${CTRIP_URL}",
   "actions": [
     {
-      "action": "首页右上角点击“尊贵的用户”",
+      "action": "点击首页搜索框右边的用户头像，并点击弹出菜单中的用户名",
       "expectedResult": ""
     },
     {
