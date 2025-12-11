@@ -4,24 +4,28 @@
   "url": "${CTRIP_URL}",
   "actions": [
     {
-      "action": "首页右上角点击“尊贵的用户”",
-      "expectedResult": ""
+      "action": "首页右上角点击“我的订单”",
+      "expectedResult": "弹出菜单"
     },
     {
-      "action": "侧边栏点击“订单”",
+      "action": "点击弹出菜单中的”全部订单”",
       "expectedResult": "显示“全部订单”列表"
     },
     {
-      "action": "找到状态为“待支付”的订单",
-      "expectedResult": ""
+      "action": "点击进入“待支付”状态的订单",
+      "expectedResult": "进入待支付订单页面"
     },
     {
-      "action": "点击订单上的“取消”按钮",
-      "expectedResult": "弹出确认提示"
+      "action": "点击最新订单上的“取消订单”按钮",
+      "expectedResult": "进入订单详情页面"
     },
     {
-      "action": "点击“确认”",
-      "expectedResult": "订单状态更新为“已取消”"
+      "action": "点击“取消订单”",
+      "expectedResult": "弹出取消订单窗口”"
+    },
+    {
+      "action": "点击“取消订单”",
+      "expectedResult": "页面显示“已取消”"
     }
   ],
   "createdAt": "2025-12-03T00:00:00.000Z",

@@ -4,20 +4,20 @@
   "url": "${CTRIP_URL}",
   "actions": [
     {
-      "action": "首页右上角点击“尊贵的用户”",
-      "expectedResult": ""
+      "action": "首页右上角点击“我的订单”",
+      "expectedResult": "弹出菜单"
     },
     {
-      "action": "侧边栏点击“订单”并进入“全部订单”",
-      "expectedResult": "显示订单列表（包含待支付）"
+      "action": "点击弹出菜单中的”全部订单”",
+      "expectedResult": "显示“全部订单”列表"
     },
     {
       "action": "点击进入待支付订单的详情页",
-      "expectedResult": "展示订单详情，包括出发地、目的地和时间"
+      "expectedResult": "展示订单详情"
     },
     {
-      "action": "点击“去支付”",
-      "expectedResult": "（模拟）提示支付成功，订单状态更新"
+      "action": "点击“立即支付”",
+      "expectedResult": ""
     }
   ],
   "createdAt": "2025-12-03T00:00:00.000Z",

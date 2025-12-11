@@ -20,6 +20,10 @@
       "expectedResult": ""
     },
     {
+      "action": "勾选同意服务协议",
+      "expectedResult": ""
+    },
+    {
       "action": "点击“登录”",
       "expectedResult": "显示账号不存在的错误提示"
     }
