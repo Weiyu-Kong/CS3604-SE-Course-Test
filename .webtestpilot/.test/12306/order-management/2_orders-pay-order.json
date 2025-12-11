@@ -1,19 +1,19 @@
 {
-  "id": "2 - 支付订单（模拟）",
+  "id": "222 - 支付订单（模拟）",
   "name": "2 - 支付订单（模拟）",
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "进入“订单中心”-“火车票订单”-“未完成订单”",
-      "expectedResult": "显示待支付订单列表"
+      "action": "点击“你好”后的⽤⼾名",
+      "expectedResult": ""
     },
     {
-      "action": "点击第一个订单的“去支付”",
-      "expectedResult": "弹出模拟支付成功提示"
+      "action": "点击“火车票订票”",
+      "expectedResult": ""
     },
     {
-      "action": "确认提示并返回订单列表",
-      "expectedResult": "订单状态更新为“已支付”；“未出行订单”中可见该订单"
+      "action": "点击列表中第一个订单的“去支付”按钮",
+      "expectedResult": "显示订单信息和总票价"
     }
   ],
   "createdAt": "2025-12-04T00:00:00.000Z",
