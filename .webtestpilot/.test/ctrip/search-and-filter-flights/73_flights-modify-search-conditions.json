@@ -3,8 +3,16 @@
   "name": "73 - 修改查询条件",
   "url": "${CTRIP_URL}",
   "actions": [
+   {
+      "action": "确保处于首页机票查询页面",
+      "expectedResult": ""
+    },
+   {
+      "action": "点击“搜索”",
+      "expectedResult": "进入“航班列表”页"
+    },
     {
-      "action": "在航班列表页，将日期由“2025-12-15”改为“2025-12-16”",
+      "action": "在航班列表页，将出发日期修改为“2025-12-16”",
       "expectedResult": "航班列表更新为新日期"
     },
     {

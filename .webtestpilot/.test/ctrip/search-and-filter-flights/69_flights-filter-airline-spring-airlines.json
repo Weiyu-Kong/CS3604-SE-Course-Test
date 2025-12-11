@@ -8,26 +8,38 @@
       "expectedResult": ""
     },
     {
-      "action": "输入出发地“上海 (SHA)”",
+      "action": "点击“单程”单选按钮",
       "expectedResult": ""
     },
     {
-      "action": "输入目的地“北京 (BJS)”",
+      "action": "点击出发地输入框，输入出发地“上海(SHA)”",
       "expectedResult": ""
     },
     {
-      "action": "选择出发日期“2025-12-16”",
+      "action": "点击目的地输入框，输入目的地“北京(BJS)”",
       "expectedResult": ""
     },
     {
-      "action": "在航班列表页，点击“航空公司”下拉列表",
+      "action": "点击“出发日期”输入框，打开日历控件",
+      "expectedResult": "弹出日期选择日历"
+    },
+    {
+      "action": "在日历中点击日期“16”（2025年12月16日）",
       "expectedResult": ""
     },
     {
-      "action": "选择“春秋航空”",
-      "expectedResult": "显示春秋航空的航班列表"
+      "action": "点击页面中间橙色的“搜索”按钮",
+      "expectedResult": "进入航班列表页面"
+    },
+    {
+      "action": "在航班列表页点击筛选栏中的“航空公司”展开筛选下拉框",
+      "expectedResult": ""
+    },
+    {
+      "action": "在航空公司列表中点击“春秋航空”",
+      "expectedResult": "航班列表仅显示春秋航空相关航班，或无结果提示"
     }
   ],
   "createdAt": "2025-12-03T00:00:00.000Z",
-  "updatedAt": "2025-12-03T00:00:00.000Z"
+  "updatedAt": "2025-12-10T00:00:00.000Z"
 }
