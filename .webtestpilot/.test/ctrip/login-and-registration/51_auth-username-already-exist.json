@@ -5,7 +5,11 @@
   "actions": [
     {
       "action": "首页点击“注册”",
-      "expectedResult": "跳转至注册界面"
+      "expectedResult": "跳转至“携程用户注册协议和隐私政策”页面"
+    },
+    {
+      "action": "点击”同意并继续“",
+      "expectedResult": "跳转至验证手机页面"
     },
     {
       "action": "输入已注册的手机号（如：13812341234）",
@@ -13,10 +17,6 @@
     },
     {
       "action": "点击“发送验证码”并完成验证",
-      "expectedResult": ""
-    },
-    {
-      "action": "勾选“同意《服务协议》和《隐私政策》”",
       "expectedResult": ""
     },
     {
