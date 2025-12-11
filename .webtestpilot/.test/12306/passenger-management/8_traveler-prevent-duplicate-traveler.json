@@ -3,12 +3,20 @@
   "name": "8 - 防止重复添加乘车人",
   "url": "${12306_URL}",
   "actions": [
+      {
+      "action": "登录成功后，首页顶部点击用户名",
+      "expectedResult": ""
+    },
+    {
+      "action": "进入“个人中心”，侧边栏点击“常用信息管理”-“乘车人”",
+      "expectedResult": "显示当前账号已关联的乘客列表（默认乘客）"
+    },
     {
       "action": "在“乘车人”管理页面点击“添加”按钮",
       "expectedResult": ""
     },
     {
-      "action": "输入已存在乘客姓名李四",
+      "action": "输入已存在乘客姓名${12306_TRAVELER_NAME}",
       "expectedResult": ""
     },
     {
@@ -16,7 +24,11 @@
       "expectedResult": ""
     },
     {
-      "action": "输入已存在证件号码100111222233334445",
+      "action": "输入已存在证件号码${12306_TRAVELER_ID_NUMBER}",
+      "expectedResult": ""
+    },
+        {
+      "action": "输入手机号码${12306_TRAVELER_PHONE}",
       "expectedResult": ""
     },
     {
