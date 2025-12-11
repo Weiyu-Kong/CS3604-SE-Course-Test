@@ -4,15 +4,15 @@
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "确保已登录并处于首页“车票”查询模块（单程）",
+      "action": "确保已登录并处于首页，且首页上存在“车票”查询模块（单程）",
       "expectedResult": ""
     },
     {
-      "action": "输入出发地北京",
+      "action": "输入出发地北京，在搜索结果中找到北京并点击",
       "expectedResult": ""
     },
     {
-      "action": "输入到达地上海",
+      "action": "输入到达地上海，在搜索结果中找到上海并点击",
       "expectedResult": ""
     },
     {
