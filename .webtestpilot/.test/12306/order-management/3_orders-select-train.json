@@ -1,11 +1,31 @@
 {
-  "id": "3 - 选择车次",
+  "id": "333 - 选择车次",
   "name": "3 - 选择车次",
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "在车次列表页选择第一个车次，点击“预订”",
-      "expectedResult": "跳转到订单填写页，显示列车信息和乘客信息"
+      "action": "点击“出发地”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“上海”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“北京”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击第二天的选项卡",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击第一行的“预订”按钮",
+      "expectedResult": ""
     }
   ],
   "createdAt": "2025-12-04T00:00:00.000Z",

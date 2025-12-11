@@ -1,18 +1,22 @@
 {
-  "id": "5 - 添加乘车人",
-  "name": "5 - 添加乘车人",
+  "id": "555 - 添加乘车人",
+  "name": "555 - 添加乘车人",
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "在“乘车人”管理页面点击“添加”按钮",
+      "action": "点击“你好”后的⽤⼾名进⼊个⼈中⼼",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“乘车人”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“添加”按钮",
       "expectedResult": "弹出新增乘客表单"
     },
     {
       "action": "填写姓名张三",
-      "expectedResult": ""
-    },
-    {
-      "action": "选择证件类型居民身份证",
       "expectedResult": ""
     },
     {
@@ -21,10 +25,6 @@
     },
     {
       "action": "填写手机号13812341235",
-      "expectedResult": ""
-    },
-    {
-      "action": "选择优惠类型成人",
       "expectedResult": ""
     },
     {

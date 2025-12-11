@@ -1,19 +1,23 @@
 {
-  "id": "1 - 取消已支付订单",
-  "name": "1 - 取消已支付订单",
+  "id": "111 - 取消订单",
+  "name": "1 - 取消订单",
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "进入“订单中心”-“火车票订单”-“未出行订单”",
-      "expectedResult": "显示已支付订单列表"
+      "action": "点击“你好”后的⽤⼾名",
+      "expectedResult": ""
     },
     {
-      "action": "点击已支付订单的“取消订单”按钮",
-      "expectedResult": "弹出提示"
+      "action": "点击“火车票订票”",
+      "expectedResult": ""
     },
     {
-      "action": "确认取消",
-      "expectedResult": "提示不可取消已支付订单或需按规则办理退票"
+      "action": "点击列表中第一个订单的“取消订单”按钮",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“确定”按钮",
+      "expectedResult": "提示取消成功"
     }
   ],
   "createdAt": "2025-12-04T00:00:00.000Z",
