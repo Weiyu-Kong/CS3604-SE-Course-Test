@@ -1,0 +1,25 @@
+{
+  "id": "64 - 优雅处理空结果（旅客）",
+  "name": "64 - 优雅处理空结果（旅客）",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“尊贵的用户”",
+      "expectedResult": ""
+    },
+    {
+      "action": "侧边栏点击常用信息-常用旅客信息",
+      "expectedResult": ""
+    },
+    {
+      "action": "在搜索框输入不存在的姓名“ABCDEFG”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”",
+      "expectedResult": "显示“很抱歉，查询失败，您可以试试重新查询”提示"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}
