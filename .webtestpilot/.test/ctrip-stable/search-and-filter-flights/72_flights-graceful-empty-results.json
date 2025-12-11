@@ -1,0 +1,26 @@
+
+{
+  "id": "72 - 优雅处理空结果（航班）",
+  "name": "72 - 优雅处理空结果（航班）",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "确保处于首页机票查询页面",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入出发地“阿尔山 (YIE)”",
+      "expectedResult": ""
+    },
+    {
+      "action": "输入目的地“布尔津(KJI)”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“搜索”",
+      "expectedResult": ""
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-09T00:00:00.000Z"
+}

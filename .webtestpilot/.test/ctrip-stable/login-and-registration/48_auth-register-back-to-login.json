@@ -1,0 +1,21 @@
+{
+  "id": "48 - 注册页返回登录",
+  "name": "48 - 注册页返回登录",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页点击“注册”",
+      "expectedResult": ""
+    },
+    {
+      "action": "首页点击“同意并继续”",
+      "expectedResult": "注册表单显示"
+    },
+    {
+      "action": "点击“首页”",
+      "expectedResult": "注册和登录按钮会显示出来"
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}

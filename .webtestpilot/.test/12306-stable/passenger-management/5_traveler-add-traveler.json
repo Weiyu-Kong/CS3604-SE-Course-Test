@@ -1,0 +1,37 @@
+{
+  "id": "555 - 添加乘车人",
+  "name": "555 - 添加乘车人",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "点击“你好”后的⽤⼾名进⼊个⼈中⼼",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“乘车人”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“添加”按钮",
+      "expectedResult": "弹出新增乘客表单"
+    },
+    {
+      "action": "填写姓名张三",
+      "expectedResult": ""
+    },
+    {
+      "action": "填写证件号码100111222233334444",
+      "expectedResult": ""
+    },
+    {
+      "action": "填写手机号13812341235",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“保存”",
+      "expectedResult": "验证通过并将新乘客添加到列表"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

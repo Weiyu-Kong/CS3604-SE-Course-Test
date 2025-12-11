@@ -1,0 +1,41 @@
+{
+  "id": "35 - 修改查询条件",
+  "name": "35 - 修改查询条件",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "点击顶部导航栏的“车票”下拉框，然后点击“单程”，打开购票页面",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“出发地”输入框，在展开的选择框中点击“北京”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“目的地”输入框，在展开的选择框中点击“天津”",
+      "expectedResult": ""
+    },
+    {
+      "action": "在下方的日期栏中点击 12-12",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”按钮",
+      "expectedResult": "显示车次列表"
+    },
+    {
+      "action": "点击“出发地”输入框，在展开的选择框中点击“上海”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“目的地”输入框，在展开的选择框中点击“合肥”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”按钮",
+      "expectedResult": "当前页面刷新并显示上海到合肥的车次"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

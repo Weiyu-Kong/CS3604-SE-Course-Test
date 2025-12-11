@@ -1,0 +1,21 @@
+{
+  "id": "28 - 筛选席别 硬卧",
+  "name": "28 - 筛选席别 硬卧",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在车次列表页，展开“席别”筛选",
+      "expectedResult": ""
+    },
+    {
+      "action": "仅勾选硬卧",
+      "expectedResult": ""
+    },
+    {
+      "action": "观察列表刷新",
+      "expectedResult": "仅显示包含硬卧的车次"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

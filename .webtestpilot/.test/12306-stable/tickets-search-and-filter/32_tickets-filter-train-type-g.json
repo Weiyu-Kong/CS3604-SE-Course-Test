@@ -1,0 +1,37 @@
+{
+  "id": "32 - 筛选车次类型 G",
+  "name": "32 - 筛选车次类型 G",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "点击顶部导航栏的“车票”下拉框，然后点击“单程”，打开购票页面",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“出发地”输入框，在展开的选择框中点击“北京”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“目的地”输入框，在展开的选择框中点击“天津”",
+      "expectedResult": ""
+    },
+    {
+      "action": "在下方的日期栏中点击 12-12",
+      "expectedResult": ""
+    },
+    {
+      "action": "在车次类型中仅勾选GC-高铁/城际",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击查询按钮",
+      "expectedResult": "显示车次列表"
+    },
+    {
+      "action": "观察列表刷新",
+      "expectedResult": "仅显示G开头的高铁车次和C开头的城际车次（不包括下方的同车车次变更接续车次）"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

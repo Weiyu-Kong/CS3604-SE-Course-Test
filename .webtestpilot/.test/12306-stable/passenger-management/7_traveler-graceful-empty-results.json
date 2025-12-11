@@ -1,0 +1,25 @@
+{
+  "id": "777 - 优雅处理空结果（乘车人）",
+  "name": "7 - 优雅处理空结果（乘车人）",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "点击“你好”后的⽤⼾名",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“乘车人”",
+      "expectedResult": ""
+    },
+    {
+      "action": "在“请输入乘客姓名”搜索框输入“ABCDEFG”",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击“查询”",
+      "expectedResult": "显示列表为空"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

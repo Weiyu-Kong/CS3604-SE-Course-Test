@@ -1,0 +1,21 @@
+{
+  "id": "27 - 筛选席别 一等座",
+  "name": "27 - 筛选席别 一等座",
+  "url": "${12306_URL}",
+  "actions": [
+    {
+      "action": "在车次列表页，展开“席别”筛选",
+      "expectedResult": ""
+    },
+    {
+      "action": "仅勾选一等座",
+      "expectedResult": ""
+    },
+    {
+      "action": "观察列表刷新",
+      "expectedResult": "仅显示包含一等座的车次"
+    }
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "updatedAt": "2025-12-04T00:00:00.000Z"
+}

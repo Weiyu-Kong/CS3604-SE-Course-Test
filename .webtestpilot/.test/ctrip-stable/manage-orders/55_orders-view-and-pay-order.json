@@ -1,0 +1,25 @@
+{
+  "id": "55 - 查看、支付订单",
+  "name": "55 - 查看、支付订单",
+  "url": "${CTRIP_URL}",
+  "actions": [
+    {
+      "action": "首页右上角点击“我的订单”",
+      "expectedResult": "弹出菜单"
+    },
+    {
+      "action": "点击弹出菜单中的”全部订单”",
+      "expectedResult": "显示“全部订单”列表"
+    },
+    {
+      "action": "点击进入待支付订单的详情页",
+      "expectedResult": "展示订单详情"
+    },
+    {
+      "action": "点击“立即支付”",
+      "expectedResult": ""
+    }
+  ],
+  "createdAt": "2025-12-03T00:00:00.000Z",
+  "updatedAt": "2025-12-03T00:00:00.000Z"
+}
