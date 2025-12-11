@@ -8,6 +8,10 @@
       "expectedResult": ""
     },
     {
+      "action": "点击“单程”按钮",
+      "expectedResult": ""
+    },
+    {
       "action": "输入出发地“上海 (SHA)”",
       "expectedResult": ""
     },
@@ -16,15 +20,23 @@
       "expectedResult": ""
     },
     {
-      "action": "选择出发日期“2025-12-16”",
+      "action": "点击“出发日期”，打开日历控件",
+      "expectedResult": "弹出日期选择日历"
+    },
+    {
+      "action": "选择出发日期“2025-12-16”，在日历中点击日期“16”",
       "expectedResult": ""
+    },
+    {
+      "action": "点击“搜索”按钮",
+      "expectedResult": "进入航班列表页面"
     },
     {
       "action": "在航班列表页，点击“舱位”下拉列表",
       "expectedResult": ""
     },
     {
-      "action": "选择“商务舱”",
+      "action": "选择“公务/头等舱”",
       "expectedResult": "显示商务舱的航班列表"
     }
   ],
