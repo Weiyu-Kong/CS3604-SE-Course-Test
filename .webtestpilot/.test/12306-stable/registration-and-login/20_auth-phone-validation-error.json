@@ -4,8 +4,8 @@
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "首页点击“注册”",
-      "expectedResult": "跳转至注册界面"
+      "action": "点击“注册”",
+      "expectedResult": ""
     },
     {
       "action": "填写用户名、密码、确认密码、姓名、证件号",

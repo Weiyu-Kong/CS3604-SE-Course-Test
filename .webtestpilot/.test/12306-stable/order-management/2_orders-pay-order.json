@@ -12,6 +12,10 @@
       "expectedResult": ""
     },
     {
+      "action": "点击“未完成订单”Tab",
+      "expectedResult": ""
+    },
+    {
       "action": "点击列表中第一个订单的“去支付”按钮",
       "expectedResult": "显示订单信息和总票价"
     }
