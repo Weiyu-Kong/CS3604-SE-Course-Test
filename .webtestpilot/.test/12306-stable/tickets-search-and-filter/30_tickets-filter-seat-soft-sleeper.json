@@ -4,15 +4,19 @@
   "url": "${12306_URL}",
   "actions": [
     {
-      "action": "在车次列表页，展开“席别”筛选",
+      "action": "点击“出发城市”，然后选择北京",
+      "expectedResult": ""
+    },
+    {
+      "action": "在“目的城市”中输入上海",
+      "expectedResult": ""
+    },
+    {
+      "action": "点击\"查询\"",
       "expectedResult": ""
     },
     {
       "action": "仅勾选软卧",
-      "expectedResult": ""
-    },
-    {
-      "action": "观察列表刷新",
       "expectedResult": "仅显示包含软卧的车次"
     }
   ],
